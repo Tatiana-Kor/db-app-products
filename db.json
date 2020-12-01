@@ -6,11 +6,5 @@
       "price": 24000,
       "quantity": 10,
     },
-    {
-      "id": 1010,
-      "title": "Iphone 10",
-      "price": 34000,
-      "quantity": 6,
-    },
   ]
 }
