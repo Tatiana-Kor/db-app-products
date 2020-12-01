@@ -1,0 +1,38 @@
+[
+    {
+      'id':           1008,
+      'title':        'Iphone 8',
+      'price':        '24000',
+      'quantity':     10,
+    },
+    {
+      'id':           1010,
+      'title':        'Iphone 10',
+      'price':        '34000',
+      'quantity':     6,
+    },
+    {
+      'id':           1012,
+      'title':        'Iphone 12',
+      'price':        '47000',
+      'quantity':     15,
+    },
+    {
+      'id':           1120,
+      'title':        'Samsung Galaxy S20',
+      'price':        '19000',
+      'quantity':     11,
+    },
+    {
+      'id':           1121,
+      'title':        'Samsung Galaxy Note S20',
+      'price':        '42000',
+      'quantity':     11,
+    },
+    {
+      'id':           1110,
+      'title':        'Samsung Galaxy S10',
+      'price':        '34000',
+      'quantity':     11,
+    }
+  ]
