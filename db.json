@@ -1,17 +1,12 @@
 {
-  "products":
-  [
+  "websites" : [ 
     {
-      "Caption":"A",
-      "Value":65
+      "description" : "work",
+      "URL" : "https://www.digitalocean.com/"
     },
     {
-      "Caption":"B",
-      "Value":66
-    },
-    {
-      "Caption":"C",
-      "Value":67
+      "desciption" : "tutorials",
+      "URL" : "https://www.digitalocean.com/community/tutorials"
     }
   ],
 }
