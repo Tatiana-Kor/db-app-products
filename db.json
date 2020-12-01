@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "products": [
     {
-      "id": 1,
-      "title": "hello"
+      "id":           1008,
+      "title":        "Iphone 8",
+      "price":        "24000",
+      "quantity":     10,
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
