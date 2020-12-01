@@ -11,6 +11,30 @@
       "title": "Iphone 10",
       "price": 34000,
       "quantity": 6
+    },
+    {
+      "id": 1012,
+      "title": "Iphone 12",
+      "price": 47000,
+      "quantity": 15
+    },
+    {
+      "id": 1020,
+      "title": "Samsung Galaxy S20",
+      "price": 19000,
+      "quantity": 11
+    },
+    {
+      "id": 1021,
+      "title": "Samsung Galaxy Note S20",
+      "price": 42000,
+      "quantity": 4
+    },
+    {
+      "id": 1110,
+      "title": "Samsung Galaxy S10",
+      "price": 34000,
+      "quantity": 8
     }
   ]
 }
